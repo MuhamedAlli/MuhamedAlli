@@ -1,9 +1,9 @@
 ### Hi there, I'm Muhammed Ali 👋❤️
 
--  Software Engineer
--  Full Stck Developer
+-  Software Applications Engineer
+-  Full Stck .Net Developer
     - Angular Framework
-    - C# or .Net in Back-end
+    - C#
   
 ## Contact with me on
 -  Linkedin : https://www.linkedin.com/in/mohammed-el-sheikh-1744851a0/
