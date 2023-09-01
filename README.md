@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammed Ali 👋❤️
 
 -  Software Applications Engineer
--  Full Stck .Net Developer
+-  Full Stack .Net Developer
     - Angular Framework
     - C#
   
