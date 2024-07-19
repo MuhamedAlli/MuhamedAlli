@@ -1,9 +1,9 @@
 ### Hi there, I'm Muhammed Ali 👋❤️
 
 -  Software Development Engineer
--  Full Stack .Net Developer
-    - ASP.NET Core MVC
-    - ASP.NET Core Web API
+-  BackEnd Enguneer
+    - ASP.NET Core MVC , ASP.NET Core Web API ,SQL Sserver , Entity Framework
+    - Node JS ,Nest JS, Express JS , MYSQL , SEQUELIZE ORM Framework 
   
 ## Contact with me on
 -  Linkedin : https://www.linkedin.com/in/mohammedalli
