@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammed Ali 👋❤️
 
 -  Software Development Engineer
--  BackEnd Enguneer
+-  BackEnd Engineer
     - ASP.NET Core MVC , ASP.NET Core Web API ,SQL Sserver , Entity Framework
     - Node JS ,Nest JS, Express JS , MYSQL , SEQUELIZE ORM Framework 
   
