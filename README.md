@@ -3,7 +3,7 @@
 -  Software Development Engineer
 -  BackEnd Engineer
 
-    -Javascript , Typescript , Node JS ,Nest JS, Express JS , MYSQL , SEQUELIZE ORM Framework , MongoDB , Mongoose , JWT , HTML ,CSS  , JQuery
+    -PhP , Laravel , Javascript , Typescript , Node JS ,Nest JS, Express JS , MYSQL ,Elequent ORM , SEQUELIZE ORM Framework , MongoDB , Mongoose , JWT , HTML ,CSS  , JQuery
    
     -Previuse stack => ASP.NET Core MVC , ASP.NET Core Web API ,SQL Sserver , Entity Framework ORM
   
