@@ -1,27 +1,29 @@
 ### Hi there, I'm Mohamed Ali 👋
 
-**Backend Developer** with 3 years of experience building scalable APIs and microservices with **Laravel** and **Node.js**.
+**Full Stack Developer** with 3 years of experience and **10+ production projects**, building Laravel and Node.js backends, Vue.js frontends, and hundreds of REST API endpoints.
 
 #### 🔭 What I'm working on
-At **Advanced Controls**, I build backend microservices for four enterprise compliance products:
+At **Advanced Controls**, I build full-stack features for four enterprise compliance products:
 - **Cyber Mode** – Governance, Risk & Compliance
 - **Governance Mode** – Enterprise Governance, Risk & Compliance
 - **IT Mode** – IT Service Management
-- **Data Mode** – Data Governance (National Data Management Office standards)
+- **Data Mode** – Data Governance
 
-I also built a reusable real-time notification microservice with Laravel Reverb and WebSockets that plugs into any of these products.
+#### 🚀 Featured Work
+- **Notification Service:** a standalone real-time notification microservice (Laravel Reverb, WebSockets, Vue.js) that plugs into any product without changes to its core.
+- **Cyber Mode:** built the Committees and Business Continuity modules end to end, from Laravel APIs to Vue.js interfaces.
+- **[Genie](https://b2b-egy.com/en):** a real estate discovery platform with location-based search, built with Node.js, Express, and MySQL.
 
 #### 🛠️ Tech Stack
 - **Backend:** PHP, Laravel, Laravel Reverb, Node.js, Express.js, NestJS, TypeScript
-- **Databases:** MySQL, MongoDB, Redis, SQL Server
-- **ORMs:** Eloquent, Sequelize, Mongoose, Entity Framework
-- **Frontend:** Vue.js, React, JavaScript
+- **Frontend:** Vue.js, JavaScript, Tailwind CSS, Bootstrap
+- **Databases:** MySQL, MongoDB, Redis
+- **ORMs:** Eloquent, Sequelize, Mongoose
 - **Architecture:** RESTful APIs, Microservices, WebSockets, Clean Architecture, SOLID, Repository & Service patterns
-- **Security:** JWT, OAuth
-- **Tools:** Git, Docker, Linux, Postman
-- **Also worked with:** C#, ASP.NET Core MVC & Web API
+- **Security:** JWT, Role-Based Access Control (RBAC)
+- **Tools:** Git, Linux, Postman
 
 #### 📫 Reach me
-- LinkedIn: [linkedin.com/in/mohammedalli](https://www.linkedin.com/in/mohammedalli)
+- LinkedIn: [linkedin.com/in/mohammedalli](https://www.linkedin.com/in/mohammedalli/)
 - WhatsApp: [+20 112 349 6091](https://wa.me/201123496091)
 - Email: mohamedalialammary@gmail.com
